@@ -1,0 +1,14 @@
+.title {
+  display: inline-block;
+  text-align: center;
+  width: 100%;
+  font-size: 4rem;
+  margin: 2rem auto 1.5rem;
+  font-family: "Poppins";
+  font-weight: 700;
+  color: var(--black-1);
+  text-transform: uppercase;
+  /* @include smallDeviceSize {
+    font-size: 3rem;
+  } */
+}

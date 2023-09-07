@@ -1,0 +1,10 @@
+.appHeader {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+  /* margin-left: 45rem;
+  margin-right: 45rem; */
+  /* align-items: center; */
+  /* align-items works on the cross-axis */
+}
